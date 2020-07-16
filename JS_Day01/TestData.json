@@ -1,0 +1,10 @@
+{
+    "employee1" :{
+        "Name": "Muhtar",
+        "ID" : 17
+    },
+    "employee2" : {
+        "Name" : "Michael",
+        "ID": 23
+    }
+}
